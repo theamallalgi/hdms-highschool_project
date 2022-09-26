@@ -2,7 +2,7 @@
 # Project done by class 12 
 
 # Imports
-import functions
+import modules.functions as functions
 
 # Logo
 print('\n')
