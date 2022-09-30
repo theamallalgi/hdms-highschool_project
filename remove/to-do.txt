@@ -8,3 +8,5 @@ intall scoop : (powershell) (https://scoop.sh/)
 	scoop install neovide
 	scoop install alacritty
 	scoop install sublime-text
+
+That's all!
