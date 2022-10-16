@@ -28,7 +28,7 @@ def histogram(x_axis, y_axis) :
 	plt.show()
 
 
-# raw_data = {'first_name': ['Sheldon', 'Raj', 'Leonard', 'Howard', 'Amy'],
+raw_data = {'first_name': ['Sheldon', 'Raj', 'Leonard', 'Howard', 'Amy'],
             'last_name': ['Copper', 'Koothrappali', 'Hofstadter', 'Wolowitz', 'Fowler'],
             'age': [42, 38, 36, 41, 35],
             'Comedy_Score': [9, 7, 8, 8, 5],
